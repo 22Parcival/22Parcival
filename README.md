@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/22Parcival/Square_root" target="_blank">
-    <img src="https://img.shields.io/badge/📁 Square__root-000000?style=for-the-badge&logo=github&logoColor=white" alt="Square_root" />
+    <img src="https://img.shields.io/badge/Square__root-000000?style=for-the-badge&logo=github&logoColor=white" alt="Square_root" />
   </a>
 </p>
 
@@ -58,5 +58,5 @@
 
 <div align="center">
   <img src="https://github.com/22Parcival.png" alt="22Parcival" width="50px" style="border-radius: 50%;" /><br>
-  ✨ <i>"pour faire du code ta juste besoin de quoi coder"</i> ✨
+  <i>"pour faire du code ta juste besoin de quoi coder"</i>
 </div>
