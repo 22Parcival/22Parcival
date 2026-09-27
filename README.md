@@ -14,20 +14,13 @@
 ### 💻 Stack &amp; Compétences
 
 **Je maîtrise :**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux" alt="Mastered Tech" />
 </p>
 
 **J'apprends :**
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,cpp" alt="Learning Tech" />
 </p>
 
 ---
@@ -36,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/22Parcival/Square_root" target="_blank">
-    <img src="https://img.shields.io/badge/📁 Square__root-000000?style=for-the-badge&logo=github&logoColor=white" alt="Square_root" />
+    <img src="https://img.shields.io/badge/Square__root-000000?style=for-the-badge&logo=github&logoColor=white" alt="Square_root" />
   </a>
 </p>
 
@@ -50,13 +43,13 @@
   </a>
   <a href="https://instagram.com/22Parcival" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-22Parcival-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-22Parcival-5865F2?style=for-the-badge&logo=discord" alt="Discord" />
+  <a href="https://discordapp.com/users/751472879421358182" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </p>
 
 ---
 
 <div align="center">
   <img src="https://github.com/22Parcival.png" alt="22Parcival" width="50px" style="border-radius: 50%;" /><br>
-  ✨ <i>"pour faire du code ta juste besoin de quoi coder"</i> ✨
+  <i>"pour faire du code ta juste besoin de quoi coder"</i>
 </div>
