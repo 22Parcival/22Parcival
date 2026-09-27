@@ -2,17 +2,11 @@
   <img src="img/bnr1parcival.png" alt="Banner" width="100%" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github.com/22Parcival.png" alt="Profile Picture" width="150px" style="border-radius: 50%;" />
-</div>
-
 <h3 align="center">Salut ! Moi c'est 22Parcival 👋</h3>
 
 <p align="center">
   💻 Développeur passionné &amp; curieux de tech<br>
-  🚀 Actuellement en train d'explorer de nouveaux projets &amp; de contribuer sur <a href="https://github.com/SparksLyse-Community" target="_blank">SparksLyse-Community</a>
+  🚀 Actuellement en train de contribuer sur <a href="https://github.com/SparksLyse-Community" target="_blank">SparksLyse-Community</a>
 </p>
 
 ---
@@ -38,11 +32,11 @@
 
 ---
 
-### 📂 Mes Projets Épinglés
+### 📂 Mes Projets favoris
 
 <p align="center">
   <a href="https://github.com/22Parcival/Square_root" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=22Parcival&repo=Square_root&theme=dark&hide_border=true" alt="Square_root" />
+    <img src="https://img.shields.io/badge/📁 Square__root-000000?style=for-the-badge&logo=github&logoColor=white" alt="Square_root" />
   </a>
 </p>
 
