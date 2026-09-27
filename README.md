@@ -2,7 +2,7 @@
   <img src="img/bnr1parcival.png" alt="Banner" width="100%" />
 </div>
 
-<h3 align="center">Salut ! Moi c'est 22Parcival 👋</h3>
+<h3 align="center">Salut ! Bienvenue sur mon GitHub</h3>
 
 <p align="center">
   💻 Développeur passionné &amp; curieux de tech<br>
